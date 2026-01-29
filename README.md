@@ -7,7 +7,7 @@
 - 🐍 Python
 - 🐚 Bash
 - 🪟 PowerShell
-Tools: Nmap, Gobuster/FFUF, Metasploit, SMBClient, and others
+- Tools: Nmap, Gobuster/FFUF, Metasploit, SMBClient, and others
 ---
 # 📂 What you'll find here
 - Pentest automation and enumeration scripts
