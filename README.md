@@ -1,8 +1,6 @@
 ## Hi, I'm Jaziel👋
 
-<!------------------------
 🎯 **Information Security** focused on **Pentesting**  
-
 --
 
 ## 🛠️ Skills
@@ -18,4 +16,4 @@ Tools: Nmap, Gobuster/FFUF, Metasploit, SMBClient, and others
 - My study notes
 ----
 ⚠️ All content is for educational purposes only.
--->
+
